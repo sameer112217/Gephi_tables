@@ -1,0 +1,22 @@
+Id,Label,Type
+CUST001,CUST001,Customer
+CUST002,CUST002,Customer
+CUST003,CUST003,Customer
+CUST004,CUST004,Customer
+CUST005,CUST005,Customer
+TXN001,TXN001,Transaction
+TXN002,TXN002,Transaction
+TXN003,TXN003,Transaction
+TXN004,TXN004,Transaction
+TXN005,TXN005,Transaction
+TXN006,TXN006,Transaction
+TXN007,TXN007,Transaction
+TXN008,TXN008,Transaction
+TXN009,TXN009,Transaction
+TXN010,TXN010,Transaction
+TXN011,TXN011,Transaction
+TXN012,TXN012,Transaction
+TXN013,TXN013,Transaction
+TXN014,TXN014,Transaction
+TXN015,TXN015,Transaction
+BR001,Dubai Branch,Branch

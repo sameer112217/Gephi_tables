@@ -1,0 +1,17 @@
+Id,Label,Type,LastActiveDate
+CUST001,CUST001,Customer,01-12-2023
+CUST002,CUST002,Customer,15-11-2023
+CUST003,CUST003,Customer,20-10-2023
+CUST004,CUST004,Customer,30-05-2025
+CUST005,CUST005,Customer,01-06-2025
+TXN001,TXN001,Transaction,
+TXN002,TXN002,Transaction,
+TXN003,TXN003,Transaction,
+TXN004,TXN004,Transaction,
+TXN005,TXN005,Transaction,
+TXN006,TXN006,Transaction,
+TXN007,TXN007,Transaction,
+TXN008,TXN008,Transaction,
+TXN009,TXN009,Transaction,
+TXN010,TXN010,Transaction,
+BR001,Main Branch,Branch,

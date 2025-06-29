@@ -1,0 +1,13 @@
+Id,Label,Type,Salary,Region
+CUST001,CUST001,Customer,5000,Sharjah
+CUST002,CUST002,Customer,5000,Sharjah
+CUST003,CUST003,Customer,5000,Sharjah
+CUST004,CUST004,Customer,5000,Sharjah
+CUST005,CUST005,Customer,5000,Sharjah
+CUST006,CUST006,Customer,7000,Dubai
+CUST007,CUST007,Customer,7200,Dubai
+CUST008,CUST008,Customer,6900,Abu Dhabi
+CUST009,CUST009,Customer,7100,Dubai
+CUST010,CUST010,Customer,7050,Ajman
+ABC_CORP,ABC_CORP,Company,,
+XYZ_LLC,XYZ_LLC,Company,,

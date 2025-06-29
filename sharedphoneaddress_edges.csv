@@ -1,0 +1,11 @@
+Source,Target,Type,relationship
+Customer_001,Phone_971501234567,Undirected,has_phone
+Customer_001,Address_AE_PO123,Undirected,has_address
+Customer_002,Phone_971501234567,Undirected,has_phone
+Customer_002,Address_AE_PO123,Undirected,has_address
+Customer_003,Phone_971501234567,Undirected,has_phone
+Customer_004,Address_AE_PO123,Undirected,has_address
+Customer_005,Phone_971501234888,Undirected,has_phone
+Customer_006,Phone_971501234888,Undirected,has_phone
+Customer_007,Phone_971501239999,Undirected,has_phone
+Customer_007,Address_AE_PO999,Undirected,has_address

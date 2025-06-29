@@ -1,0 +1,7 @@
+Source,Target,Type,Label
+cust_001,addr_101,Directed,REGISTERED_AT
+cust_002,addr_101,Directed,REGISTERED_AT
+cust_003,addr_102,Directed,REGISTERED_AT
+cust_004,addr_103,Directed,REGISTERED_AT
+cust_005,addr_101,Directed,REGISTERED_AT
+cust_005,addr_104,Directed,REGISTERED_AT

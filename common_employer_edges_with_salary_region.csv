@@ -1,0 +1,11 @@
+Source,Target,Relationship
+CUST001,ABC_CORP,Employed_By
+CUST002,ABC_CORP,Employed_By
+CUST003,ABC_CORP,Employed_By
+CUST004,ABC_CORP,Employed_By
+CUST005,ABC_CORP,Employed_By
+CUST006,XYZ_LLC,Employed_By
+CUST007,XYZ_LLC,Employed_By
+CUST008,XYZ_LLC,Employed_By
+CUST009,XYZ_LLC,Employed_By
+CUST010,XYZ_LLC,Employed_By

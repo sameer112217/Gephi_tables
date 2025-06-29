@@ -1,0 +1,14 @@
+Id,Label,Type
+Customer_001,Customer_001,Customer
+Customer_002,Customer_002,Customer
+Customer_003,Customer_003,Customer
+Customer_004,Customer_004,Customer
+Customer_005,Customer_005,Customer
+Customer_006,Customer_006,Customer
+Customer_007,Customer_007,Customer
+Phone_971501234567,971501234567,Phone
+Phone_971501234888,971501234888,Phone
+Phone_971501239999,971501239999,Phone
+Address_AE_PO123,PO Box 123 Dubai,Address
+Address_AE_PO888,PO Box 888 Sharjah,Address
+Address_AE_PO999,PO Box 999 Abu Dhabi,Address

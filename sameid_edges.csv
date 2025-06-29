@@ -1,0 +1,5 @@
+Source,Target,Type,Label
+CUST_001,EID_78901,Directed,Uses_EID
+CUST_002,EID_78901,Directed,Uses_EID
+CUST_003,EID_78901,Directed,Uses_EID
+CUST_004,EID_55555,Directed,Uses_EID

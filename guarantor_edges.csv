@@ -1,0 +1,6 @@
+Source,Target,Type,Label
+cust_001,cust_002,Directed,GUARANTEES
+cust_002,cust_003,Directed,GUARANTEES
+cust_003,cust_001,Directed,GUARANTEES
+cust_004,cust_005,Directed,GUARANTEES
+cust_005,cust_004,Directed,GUARANTEES
